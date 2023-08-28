@@ -11,3 +11,5 @@ https://github.com/AhmedElmarghany/maps_scraping/blob/4935add04dc9c94aecdfaab02f
 There are attached notebook for removing duplicated data
 
 See video here:
+
+https://youtu.be/ZPHHBBXuHa0
