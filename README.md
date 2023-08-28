@@ -9,4 +9,5 @@ you can see scraped data here:
 https://github.com/AhmedElmarghany/maps_scraping/blob/4935add04dc9c94aecdfaab02fd665f59dc1625f/maps/data/dentists.csv
 
 There are attached notebook for removing duplicated data
+
 See video here:
